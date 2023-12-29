@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/OLAP-A5CD39?style=flat&logo=OLAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/DW-0068FF?style=flat&logo=DW&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-F16521?style=flat&logo=ETL&logoColor=white"/>
 </p>
 
 <!--
