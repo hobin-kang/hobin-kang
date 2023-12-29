@@ -2,7 +2,7 @@
 This is hobinKang's git..(will be update😄)
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobin-kang&layout=compact)
 
 <!--
 **hobin-kang/hobin-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
