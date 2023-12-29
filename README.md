@@ -1,5 +1,5 @@
 ### Hi there 👋
-hobinKang's git
+hobinKang's git..(will be update)
 
 <img src="https://img.shields.io/badge/PostgreSQL-0064CD?style=flat-square&logo=postgresql&logoColor=white"/>
 
