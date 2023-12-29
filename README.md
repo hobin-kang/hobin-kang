@@ -1,6 +1,6 @@
-### Hi there 👋
-This is hobinKang's git..(will be update😄)
+### This is hobinKang's git..👋 (will be update😄)
 
+<h2>🌱 Skills</h2>
 <p dir="auto">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
