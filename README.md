@@ -1,6 +1,14 @@
 ### This is hobinKang's git..👋 (will be update😄)
 
 <h2>🌱 Skills</h2>
+<h4>⚡ Web</h4>
+<p dir="auto">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
+</p>
+
+<h4>😄 DBA/DA</h4>
 <p dir="auto">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
