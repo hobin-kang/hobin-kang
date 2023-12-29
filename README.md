@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is hobinKang's git..(will be update😄)
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <!--
 **hobin-kang/hobin-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
