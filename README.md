@@ -8,7 +8,7 @@
 </p>
 
 <h4>:poop: Web Full Stack DEV & OLAP BI (~2023)</h4>
-<p dir="auto">
+<p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
