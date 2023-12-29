@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
-<h4>:poop: Web (~2023)</h4>
+<h4>:poop: Web & OLAP BI (~2023)</h4>
 <p dir="auto">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Mybatis-FF4906?style=flat&logo=Mybatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OLAP-A5CD39?style=flat&logo=OLAP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DW-0068FF?style=flat&logo=DW&logoColor=white"/>
 </p>
 
 <!--
