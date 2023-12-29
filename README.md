@@ -1,13 +1,13 @@
 ### This is hobinKang's git..👋 (will be update😄)
 
 <h2>🌱 Skills</h2>
-<h4>😄 DBA/DA</h4>
+<h4>:tada: DBA/DA (2023~)</h4>
 <p dir="auto">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
-<h4>⚡ Web (~2023)</h4>
+<h4>:poop: Web (~2023)</h4>
 <p dir="auto">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
