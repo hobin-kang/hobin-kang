@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is hobinKang's git..(will be update😄)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="#">
+<a target="_blank" href="#">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </a>
